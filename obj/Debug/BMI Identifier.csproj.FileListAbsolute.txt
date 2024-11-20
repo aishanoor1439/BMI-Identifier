@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\BMI Identifier\BMI Identifier\bin\Debug\BMI Identifier.exe.config
+C:\Users\DELL\source\repos\BMI Identifier\BMI Identifier\bin\Debug\BMI Identifier.exe
+C:\Users\DELL\source\repos\BMI Identifier\BMI Identifier\bin\Debug\BMI Identifier.pdb
+C:\Users\DELL\source\repos\BMI Identifier\BMI Identifier\obj\Debug\BMI Identifier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\BMI Identifier\BMI Identifier\obj\Debug\BMI Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BMI Identifier\BMI Identifier\obj\Debug\BMI Identifier.exe
+C:\Users\DELL\source\repos\BMI Identifier\BMI Identifier\obj\Debug\BMI Identifier.pdb
